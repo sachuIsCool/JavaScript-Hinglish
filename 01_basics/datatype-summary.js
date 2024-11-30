@@ -47,7 +47,7 @@ anothername="bhai"
 console.log(myYoutubename);
 console.log(anothername);
 
-let user1 ={
+let user1  ={
     email: "user@google.com",
     upi: "user@ybl"
 }
